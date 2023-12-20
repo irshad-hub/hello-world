@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>IrshadAhmed S</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
